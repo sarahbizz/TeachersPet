@@ -12,9 +12,6 @@ https://github.com/MsLoLa/project3-frontend-starter.git
 5. as a student, I want to be able to review my correct and incorrect answers to the quiz I took.
 6. as a student, I want to be able to take a quiz that my instructor assigned so I can see what I know and don't know. 
 
-https://github.com/sarahbizzell/project3-backend-starter.git
-
-https://github.com/MsLoLa/project3-frontend-starter.git
 
 
 ![alt text](https://i.imgur.com/hQQQyEY.png")
