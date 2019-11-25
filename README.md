@@ -1,6 +1,7 @@
 # Teacher's Pet
 ## Links to front-end and back-end repositories
 https://github.com/sarahbizzell/project3-backend-starter.git
+
 https://github.com/MsLoLa/project3-frontend-starter.git
 
 ## Motivation
@@ -16,33 +17,32 @@ The app is intended to help educators understand their students' competence in c
 7. as a student, I want to be able to review my correct and incorrect answers to verify that I understand the material.
 8. as a student, I want to be able to re-take a quiz to see if my score is improving. 
 9. as a student, I want to be able to test my knowledge outside of the classroom.
-10. as the principal of a school, I want to verify that instructors are teaching their material in a way that students understand. and can perform well on quizzes.
-
+10. as the principal of a school, I want to verify that instructors are teaching their material in a way that students understand and can perform well upon examination.
 
 ## ScreenShots
 
 * Wireframes 
-![alt text]("https://i.imgur.com/9dlZoq9.png")
-![alt text]("https://i.imgur.com/TiV2lXQ.png")
+![](https://i.imgur.com/9dlZoq9.png)
+![](https://i.imgur.com/TiV2lXQ.png)
 * Horizontal Hierarchy
-![alt text]("https://i.imgur.com/v3hUELW.png")
+![](https://i.imgur.com/v3hUELW.png)
 * Database Relations
-![alt text]("https://i.imgur.com/n29rk13.png")
+![](https://i.imgur.com/n29rk13.png)
 
 ## Assets Used
-*
-*
-*
+* Lucidchart: for creating the database relations diagram
+* Balsamiq Mockups 3: for creating the horizontal hierarchy diagram
+* Heroku: for deploying our app
 
 # Future Plans
 
 
 ## Technologies Used: 
-*
-*
-*
-*
-*
+* Command Line: Used for navigating the file system
+* Source Control: Used for interacting,managing, and updating code between group members on to a git repository
+* Visual Studio Code: Code editor used for our JavaScript, CSS, and HTML 
+* React: 
+* Bootstrap: used for creating the drop-down menu CSS
 
 ## Installation
 *
@@ -56,13 +56,10 @@ The app is intended to help educators understand their students' competence in c
 # Requirements Met
 
 ## General Requirements
-*
-*
-*
-*
+* 10 User stories
+* README.md that explains the Teacher's Pet app
 ## Technical Requirements
-*
-*
-*
-*
+* React front-end
+* node/express back-end
+* full CRUD on instructor model 
 
