@@ -56,10 +56,18 @@ The app is intended to help educators understand their students' competence in c
 # Requirements Met
 
 ## General Requirements
-* 10 User stories
-* README.md that explains the Teacher's Pet app
+- [x] 10 User stories
+- [x] README.md that explains the Teacher's Pet app
+- [x] High quality code
+- [x] React front-end/ 
 ## Technical Requirements
-* React front-end
-* node/express back-end
-* full CRUD on instructor model 
+- [x] React front-end
+- [x] Node/express back-end
+- [x] Full CRUD on instructor model 
+- [x] Add/delete on other models
+- [x] Deployed on Heroku
+- [x] At least three models
+## Stretch Goals
+- [x] 3rd party API
+
 
