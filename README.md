@@ -33,7 +33,7 @@ The app is intended to help educators understand their students' competence in c
 * Lucidchart: for creating the database relations diagram
 * Balsamiq Mockups 3: for creating the horizontal hierarchy diagram
 * Wireframe.cc: for creating our two wireframe
-* Heroku: for deploying our app
+
 
 # Future Plans
 * We were unable to add delete to the quiz or question models, which we should have. This is a feature that needs to be added in the future. Also, our group found the CSS a bit challenging, so making the app more visually appealing and user friendly is a task to work on.
@@ -49,6 +49,7 @@ The app is intended to help educators understand their students' competence in c
 * Web browser
 * Internet connection
 * Javascript support
+* NPM support
 
 # Requirements Met
 
@@ -62,6 +63,7 @@ The app is intended to help educators understand their students' competence in c
 - [x] Node/express back-end
 - [x] Full CRUD on instructor model 
 - [x] Deployed on Heroku
+- [x] Add/delete on all models
 - [x] At least three models
 ## Stretch Goals
 - [x] 3rd party API
