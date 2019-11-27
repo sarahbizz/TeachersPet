@@ -42,7 +42,7 @@ The app is intended to help educators understand their students' competence in c
 * Command Line: Used for navigating the file system
 * Source Control: Used for interacting,managing, and updating code between group members on to a git repository
 * Visual Studio Code: Code editor used for our JavaScript, CSS, and HTML 
-* React: 
+* React: Javascript library
 * Bootstrap: used for creating the drop-down menu CSS
 
 ## Installation
