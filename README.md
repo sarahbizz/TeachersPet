@@ -57,7 +57,6 @@ The app is intended to help educators understand their students' competence in c
 - [x] 10 User stories
 - [x] README.md that explains the Teacher's Pet app
 - [x] High quality code
-- [x] React front-end/ 
 ## Technical Requirements
 - [x] React front-end
 - [x] Node/express back-end
