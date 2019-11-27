@@ -43,7 +43,7 @@ The app is intended to help educators understand their students' competence in c
 * Source Control: Used for interacting,managing, and updating code between group members on to a git repository
 * Visual Studio Code: Code editor used for our JavaScript, CSS, and HTML 
 * React: Javascript library
-* Bootstrap: used for creating the drop-down menu CSS
+* Bootstrap: used for creating the drop-down menu and some other CSS features
 
 ## Installation
 * Web browser
@@ -62,10 +62,10 @@ The app is intended to help educators understand their students' competence in c
 - [x] React front-end
 - [x] Node/express back-end
 - [x] Full CRUD on instructor model 
-- [x] Deployed on Heroku
 - [x] Add/delete on all models
 - [x] At least three models
 ## Stretch Goals
 - [x] 3rd party API
+- [x] Bootstrap
 
 
